@@ -9,10 +9,10 @@ module add hdf5/1.10.6/intel-2020-4-openmpi-cefas
 module add mpi/openmpi/4.0.4/intel/ib-intel-2020-4-cefas
 
 #export FABM_HOME=/gpfs/home/uck09rvu/git/fabm
-export FABM_HOME=/gpfs/home/uck09rvu/local/fabm/nemo/
-export XIOS_HOME=/gpfs/home/uck09rvu/git/xios-2.5
-export NEMO_HOME=/gpfs/home/uck09rvu/git/NEMO4.0-FABM
+export FABM_HOME=/gpfs/software/ada/fabm/nemo/
+export XIOS_HOME=/gpfs/software/ada/xios/2.5/intel-openmpi
+export NEMO_HOME=/gpfs/home/sey07qnu/NEMO/NEMO4.0-FABM
 
 ARCH="UEAADA_INTEL"
-CFG="newconfig2"
-REF="AMM7_FABM"
+CFG="AMM12-test"
+REF="AMM12"
