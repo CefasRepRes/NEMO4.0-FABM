@@ -168,7 +168,9 @@ CONTAINS
       ENDIF
 
       CALL iom_put( "rhop", rhop(:,:,:) )          ! 3D potential density (sigma0)
+	  
 
+       	  
       IF ( iom_use("taubot") ) THEN                ! bottom stress
          zztmp = rau0 * 0.25
          z2d(:,:) = 0._wp
@@ -185,6 +187,10 @@ CONTAINS
          CALL lbc_lnk( 'diawri', z2d, 'T', 1. )
          CALL iom_put( "taubot", z2d )           
       ENDIF
+	  IF ( iom_use("taubot") ) THEN			! wave stress
+		 CALL iom_put( "tauwav", z2d)
+	  ENDIF
+		
          
       CALL iom_put( "uoce", un(:,:,:) )            ! 3D i-current
       CALL iom_put(  "ssu", un(:,:,1) )            ! surface i-current

@@ -51,6 +51,7 @@
          <field id="sbs"          long_name="sea bottom salinity"                                                     unit="1e-3" />
 
          <field id="taubot"       long_name="bottom stress module"                                                    unit="N/m2" /> 
+         <field id="tauwav"       long_name="wave stress"                                                    unit="N/m2" /> 
 
          <field id="ssh"          long_name="sea surface height"             standard_name="sea_surface_height_above_geoid"             unit="m" />
          <field id="ssh2"         long_name="square of sea surface height"   standard_name="square_of_sea_surface_height_above_geoid"   unit="m2" > ssh * ssh </field >

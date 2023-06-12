@@ -16,7 +16,7 @@ module purge
 
 source ~/NEMO/NEMO4.0-FABM/add_mod_ada_intel.sh
 
-cmake ~/GitHub/fabm -DFABM_HOST=nemo
+cmake ~/fabm -DFABM_HOST=nemo
 
 make 
 make install
