@@ -1,0 +1,1449 @@
+[i0031.cluster.local:11701] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11695] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11702] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11716] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11704] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11713] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11714] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11691] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11717] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11690] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11700] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11705] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11696] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11711] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11712] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11693] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11699] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11692] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11703] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11698] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11707] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11697] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11710] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11708] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11706] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11709] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11715] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031.cluster.local:11694] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15422] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15413] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15411] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15415] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15403] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15423] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15414] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15405] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15408] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15409] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15407] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15399] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15417] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15402] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15424] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15418] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15419] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15420] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15401] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15412] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15416] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15421] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15400] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15404] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15406] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15425] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15426] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0032.cluster.local:15410] mca_base_component_repository_open: unable to open mca_btl_openib: /lib64/libibverbs.so.1: version `IBVERBS_1.8' not found (required by /gpfs/software/ada/openmpi/4.0.4/intel-ib-cefas/lib/openmpi/mca_btl_openib.so) (ignored)
+[i0031:11714:0:11714] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11715:0:11715] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11716:0:11716] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11713:0:11713] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11709:0:11709] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11717:0:11717] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11699:0:11699] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11712:0:11712] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11701:0:11701] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11705:0:11705] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11703:0:11703] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11695:0:11695] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11708:0:11708] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11697:0:11697] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11711:0:11711] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11702:0:11702] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11700:0:11700] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11710:0:11710] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11706:0:11706] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11696:0:11696] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11704:0:11704] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15421:0:15421] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15420:0:15420] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15414:0:15414] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15423:0:15423] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15410:0:15410] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15417:0:15417] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x1)
+[i0032:15415:0:15415] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x1)
+[i0032:15400:0:15400] Caught signal 11 (Segmentation fault: address not mapped to object at address (nil))
+[i0032:15409:0:15409] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15405:0:15405] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15408:0:15408] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15413:0:15413] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15401:0:15401] Caught signal 11 (Segmentation fault: address not mapped to object at address (nil))
+[i0032:15411:0:15411] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15399:0:15399] Caught signal 11 (Segmentation fault: address not mapped to object at address (nil))
+[i0032:15416:0:15416] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0031:11707:0:11707] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15402:0:15402] Caught signal 11 (Segmentation fault: address not mapped to object at address (nil))
+[i0031:11698:0:11698] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15406:0:15406] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15407:0:15407] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15404:0:15404] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15412:0:15412] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+[i0032:15403:0:15403] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x10)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 3 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 2 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 4 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 1 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 53 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 55 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 54 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 47 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 51 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 48 in communicator MPI_COMM_WORLD
+with errorcode 0.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+==== backtrace (tid:  11709) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AE85C1E1630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AE85B9747E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE85C410555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11717) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B82A8DA0630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B82A85337E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B82A8FCF555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11699) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B03A6A41630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B03A61D47E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B03A6C70555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11714) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA0F52E2630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002BA0F4A757E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA0F5511555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11712) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B387722F630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B38769C27E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B387745E555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11701) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B2D8E6AD630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B2D8DE407E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2D8E8DC555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11704) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AB88A920630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AB88A0B37E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB88AB4F555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11705) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA0D6378630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002BA0D5B0B7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA0D65A7555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11703) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B087DC44630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B087D3D77E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B087DE73555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11715) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AAB6FB80630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AAB6F3137E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAB6FDAF555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11702) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B0D328FF630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B0D320927E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0D32B2E555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11695) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B7811A1E630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B78111B17E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7811C4D555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11707) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF64266B630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AF641DFE7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF64289A555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11700) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF5DE6D9630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AF5DDE6C7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF5DE908555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11710) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B154E4E8630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B154DC7B7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B154E717555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11708) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AD25C82D630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AD25BFC07E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD25CA5C555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11706) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B3339C71630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B33394047E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3339EA0555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11697) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9EE50FC630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B9EE488F7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9EE532B555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11696) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BAA7B8A9630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002BAA7B03C7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002BAA7BAD8555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11716) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFF53FD5630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AFF537687E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFF54204555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11713) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ABA7CD05630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002ABA7C4987E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABA7CF34555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11711) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B366BAD9630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B366B26C7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B366BD08555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  11698) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9EF522E630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B9EF49C17E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9EF545D555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  15416) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15415) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15423) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15420) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15414) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15421) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15417) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15413) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15402) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15403) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AB6F6335630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AB6F5AC87E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB6F6564555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9C9C6BD630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B9C9BE507E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9C9C8EC555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B2153C63630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B21533F67E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2153E92555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B62A6DB8630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B62A654B7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B62A6FE7555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B5305620630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B5304DB37E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B530584F555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B304E8F8630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B304E08B7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B304EB27555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AB124FEF630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AB1247827E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB12521E555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AE3B4F3B630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AE3B46CE7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE3B516A555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B578B4FE630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B578AC917E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B578B72D555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B8C06706630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B8C05E997E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8C06935555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  15405) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15407) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15399) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15401) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+==== backtrace (tid:  15411) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15408) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B91BC528630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B91BBCBB7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B91BC757555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF8FB97A630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AF8FB10D7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF8FBBA9555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AE29A4F2630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AE299C857E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE29A721555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AD6C62CF630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AD6C5A627E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD6C64FE555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFA700FD630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AFA6F8907E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFA7032C555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AC0C8309630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AC0C7A9C7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC0C8538555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+==== backtrace (tid:  15409) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15412) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15406) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15404) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15410) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+==== backtrace (tid:  15400) ====
+ 0 0x000000000004d455 ucs_debug_print_backtrace()  ???:0
+ 1 0x00000000000507e3 PMPI_ABORT()  ???:0
+ 2 0x0000000000a236a0 lib_mpp_mp_mppstop_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/lib_mpp.f90:1251
+ 3 0x0000000000a4257f mppini_mp_mpp_init_bestpartition_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:918
+ 4 0x0000000000a46196 mppini_mp_mpp_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/mppini.f90:224
+ 5 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:346
+ 6 0x00000000004274c4 nemogcm_mp_nemo_init_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:349
+ 7 0x00000000004243e8 nemogcm_mp_nemo_gcm_()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/BLD/ppsrc/nemo/nemogcm.f90:135
+ 8 0x00000000004243a0 MAIN__()  /gpfs/home/dzd22eyu/NEMO4.0-FABM/cfgs/AMM7_FABM_IOW/WORK/nemo.f90:18
+ 9 0x0000000000424362 main()  ???:0
+10 0x0000000000022555 __libc_start_main()  ???:0
+11 0x0000000000424269 _start()  ???:0
+=================================
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AC8D5369630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AC8D4AFC7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC8D5598555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9DB3C89630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002B9DB341C7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9DB3EB8555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA5AFC3E630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002BA5AF3D17E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA5AFE6D555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AEBBA696630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AEBB9E297E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEBBA8C5555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ACD2A8CC630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002ACD2A05F7E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACD2AAFB555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+nemo.exe           0000000001B2A64A  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AADB5DDF630  Unknown               Unknown  Unknown
+libmpi_mpifh.so.4  00002AADB55727E3  mpi_abort             Unknown  Unknown
+nemo.exe           0000000000A236A0  lib_mpp_mp_mppsto        1251  lib_mpp.f90
+nemo.exe           0000000000A4257F  mppini_mp_mpp_ini         918  mppini.f90
+nemo.exe           0000000000A46196  mppini_mp_mpp_ini         224  mppini.f90
+nemo.exe           00000000004274C4  nemogcm_mp_nemo_i         346  nemogcm.f90
+nemo.exe           00000000004243E8  nemogcm_mp_nemo_g         135  nemogcm.f90
+nemo.exe           00000000004243A0  MAIN__                     18  nemo.f90
+nemo.exe           0000000000424362  Unknown               Unknown  Unknown
+libc-2.17.so       00002AADB600E555  __libc_start_main     Unknown  Unknown
+nemo.exe           0000000000424269  Unknown               Unknown  Unknown

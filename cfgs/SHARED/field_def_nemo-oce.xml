@@ -67,7 +67,8 @@
         <field id="sbs"          long_name="sea bottom salinity"                                                                                    unit="0.001"    />
         <field id="somint"       long_name="vertical integral of salinity times density"        standard_name="integral_wrt_depth_of_product_of_density_and_salinity"  unit="(kg m2) x (1e-3)" /> 
 
-        <field id="taubot"       long_name="bottom stress module"                                                                                   unit="N/m2"     /> 
+        <field id="taubot"       long_name="bottom stress module"                                                                                   unit="N/m2"     />
+        <field id="tauwav"       long_name="wave stress"                                                                                   unit="N/m2"     /> 
 
          <!-- Case EOS = TEOS-10 : output potential temperature -->
 	<field id="toce_pot"     long_name="Sea Water Potential Temperature"              standard_name="sea_water_potential_temperature"   unit="degC"     grid_ref="grid_T_3D"/>

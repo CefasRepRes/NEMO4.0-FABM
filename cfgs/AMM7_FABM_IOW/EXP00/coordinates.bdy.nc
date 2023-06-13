@@ -1,0 +1,1 @@
+/gpfs/data/cefas-shared/NEMO-benchmark-cfg/RUN/EXP00/coordinates.bdy.nc
