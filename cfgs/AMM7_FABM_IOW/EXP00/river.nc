@@ -1,1 +1,1 @@
-./INPUTS/RIV/LOCATE_rivers.2005.alk.nc
+/gpfs/data/cefas-shared/NEMO-benchmark-cfg/INPUTS/RIV/LOCATE_rivers.2005.alk.nc

@@ -53,7 +53,7 @@ MODULE trcsms_fabm
 
    ! Arrays for environmental variables
    REAL(wp), PUBLIC, ALLOCATABLE, SAVE, TARGET, DIMENSION(:,:,:) :: prn,rho
-   REAL(wp), PUBLIC, ALLOCATABLE, SAVE, TARGET, DIMENSION(:,:) :: taubot, tauwav
+   REAL(wp), PUBLIC, ALLOCATABLE, SAVE, TARGET, DIMENSION(:,:) :: taubot
    REAL(wp), PUBLIC, TARGET :: daynumber_in_year
 
    ! state check type
@@ -386,7 +386,6 @@ CONTAINS
       IF (model%variable_needs_values(fabm_standard_variables%pressure)) ALLOCATE(prn(jpi, jpj, jpk))
       IF (ALLOCATED(prn) .or. model%variable_needs_values(fabm_standard_variables%density)) ALLOCATE(rho(jpi, jpj, jpk))
       IF (model%variable_needs_values(fabm_standard_variables%bottom_stress)) ALLOCATE(taubot(jpi, jpj))
-	  IF (model%variable_needs_values(fabm_standard_variables%wave_stress)) ALLOCATE(tauwav(jpi, jpj))
 
       ! Allocate arrays to hold state for surface-attached and bottom-attached state variables
       ALLOCATE(fabm_st2Dn(jpi, jpj, jp_fabm_surface+jp_fabm_bottom))
@@ -439,7 +438,6 @@ CONTAINS
       IF (ALLOCATED(rho)) CALL model%link_interior_data(fabm_standard_variables%density, rho(:,:,:))
       IF (ALLOCATED(prn)) CALL model%link_interior_data(fabm_standard_variables%pressure, prn)
       IF (ALLOCATED(taubot)) CALL model%link_horizontal_data(fabm_standard_variables%bottom_stress, taubot(:,:))
-	  IF (ALLOCATED(tauwav)) CALL model%link_horizontal_data(fabm_standard_variables%wave_stress, tauwav(:,:))
       CALL model%link_interior_data(fabm_standard_variables%cell_thickness, e3t_n(:,:,:))
       CALL model%link_horizontal_data(fabm_standard_variables%latitude, gphit)
       CALL model%link_horizontal_data(fabm_standard_variables%longitude, glamt)

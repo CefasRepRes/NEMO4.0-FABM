@@ -764,7 +764,7 @@
 &namtra_ldf    !   lateral diffusion scheme for tracers                 (default: NO selection)
 !-----------------------------------------------------------------------
    !                       !  Operator type:
-   ln_traldf_OFF   = .true.   !  No explicit diffusion
+   ln_traldf_OFF   = .false.   !  No explicit diffusion
    ln_traldf_lap   = .false.   !    laplacian operator
    ln_traldf_blp   = .false.   !  bilaplacian operator
    !
