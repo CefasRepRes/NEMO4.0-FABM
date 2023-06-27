@@ -37,5 +37,6 @@
  <field_group id="fabm_scalar" grid_ref="grid_0">
  </field_group>
  <field_group id="fabm_input" grid_ref="grid_T_2D">
+  <field id="INP_tauw" long_name="tauw input" unit="" default_value="-.200E+21" />
  </field_group>
 </field_definition>

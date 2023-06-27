@@ -1,6 +1,6 @@
 !              !  file name   ! frequency (hours) ! variable  ! time interp. !  clim  ! 'yearly'/ ! weights  ! rotation ! land/sea mask !
 !              !              !  (if <0  months)  !   name    !   (logical)  !  (T/F) ! 'monthly' ! filename ! pairing  ! filename      !
 &variable
-   name='spm_tauw'
-   sn=         'INPUTS/AMM7-wave-stress_y2005.nc',-12,            'tauwav', .true.,  .true.,   'yearly',     '',         '',        ''
-\
+   name='tauw'
+   sn=         './INPUTS/AMM7-wave-stress',-1,            'tauw', .true.,  .false.,   'yearly',     '',         '',        ''
+/

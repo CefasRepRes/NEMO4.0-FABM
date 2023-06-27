@@ -68,6 +68,7 @@
 -->        
         <file id="file79" name_suffix="_sf_T" description="sf_T"  sync_freq="1d">
           <field field_ref="spm_pmpool" />
+          <field field_ref="INP_tauw" />
         </file>
         
     </file_group>
