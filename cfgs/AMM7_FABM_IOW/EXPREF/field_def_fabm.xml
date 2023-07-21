@@ -1,0 +1,42 @@
+<field_definition level="1" prec="4" operation="average" enabled=".TRUE." default_value="1.e20" >
+ <field_group id="ptrc_T" grid_ref="grid_T_3D">
+  <field id="spm_spm" long_name="spm concentration of SPM" unit="mg/l" default_value="-.200E+21" />
+ </field_group>
+ <field_group id="sf_T" grid_ref="grid_T_2D">
+  <field id="spm_pmpool" long_name="spm mass/m**2 of PM in bottom pool" unit="kg/m**2" default_value="-.200E+21" />
+ </field_group>
+ <field_group id="diad_T" grid_ref="grid_T_2D">
+  <field id="spm_spm_sms" long_name="spm concentration of SPM sources-sinks" unit="mg/l/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="spm_spm_w" long_name="spm concentration of SPM vertical velocity" unit="m/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="spm__attenuation_coefficient_of_photosynthetic_radiative_flux" long_name="spm light extinction contribution computed by get_light_extinction" unit="m-1" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="zero" long_name="zero" unit="" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="attenuation_coefficient_of_photosynthetic_radiative_flux_calculator_result" long_name="attenuation_coefficient_of_photosynthetic_radiative_flux_calculator result" unit="m-1" default_value="-.200E+21" grid_ref="grid_T_3D" />
+  <field id="zero_sms_tot" long_name="zero_sms_tot" unit="" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="zero_w_tot" long_name="zero_w_tot" unit="" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="spm_spm_sfl" long_name="spm concentration of SPM surface flux" unit="mg/l*m/s" default_value="0.000E+00" />
+  <field id="spm_spm_bfl" long_name="spm concentration of SPM bottom flux" unit="mg/l*m/s" default_value="0.000E+00" />
+  <field id="spm_pmpool_sms" long_name="spm mass/m**2 of PM in bottom pool sources-sinks" unit="kg/m**2/s" default_value="0.000E+00" />
+  <field id="spm_bedload" long_name="spm massflux due to bed load" unit="kg/m/s" default_value="-.200E+21" />
+  <field id="spm_massflux" long_name="spm massflux in the exchange layer" unit="kg/m**2/s" default_value="-.200E+21" />
+  <field id="spm_massfraction" long_name="spm massfraction in the exchange layer" unit="%" default_value="-.200E+21" />
+  <field id="spm__surface_albedo" long_name="spm albedo contribution computed by get_albedo" unit="-" default_value="0.000E+00" />
+  <field id="spm__surface_drag_coefficient_in_air" long_name="spm surface drag contribution computed by get_drag" unit="-" default_value="0.000E+00" />
+  <field id="zero_hz" long_name="zero_hz" unit="" default_value="0.000E+00" />
+  <field id="zero_sfl_tot" long_name="zero_sfl_tot" unit="" default_value="0.000E+00" />
+  <field id="zero_bfl_tot" long_name="zero_bfl_tot" unit="" default_value="0.000E+00" />
+  <field id="zero_hz_sms_tot" long_name="zero_hz_sms_tot" unit="" default_value="0.000E+00" />
+  <field id="spm_spm_VINT" long_name="depth-integrated spm concentration of SPM" unit="mg/l*m" default_value="0.0" />
+  <field id="spm_spm_sms_VINT" long_name="depth-integrated spm concentration of SPM sources-sinks" unit="mg/l/s*m" default_value="0.0" />
+  <field id="spm_spm_w_VINT" long_name="depth-integrated spm concentration of SPM vertical velocity" unit="m/s*m" default_value="0.0" />
+  <field id="spm__attenuation_coefficient_of_photosynthetic_radiative_flux_VINT" long_name="depth-integrated spm light extinction contribution computed by get_light_extinction" unit="m-1*m" default_value="0.0" />
+  <field id="zero_VINT" long_name="depth-integrated zero" unit="*m" default_value="0.0" />
+  <field id="attenuation_coefficient_of_photosynthetic_radiative_flux_calculator_result_VINT" long_name="depth-integrated attenuation_coefficient_of_photosynthetic_radiative_flux_calculator result" unit="m-1*m" default_value="0.0" />
+  <field id="zero_sms_tot_VINT" long_name="depth-integrated zero_sms_tot" unit="*m" default_value="0.0" />
+  <field id="zero_w_tot_VINT" long_name="depth-integrated zero_w_tot" unit="*m" default_value="0.0" />
+ </field_group>
+ <field_group id="fabm_scalar" grid_ref="grid_0">
+ </field_group>
+ <field_group id="fabm_input" grid_ref="grid_T_2D">
+  <field id="INP_tauw" long_name="tauw input" unit="" default_value="-.200E+21" />
+ </field_group>
+</field_definition>
