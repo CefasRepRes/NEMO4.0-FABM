@@ -34,4 +34,5 @@ instances:
 #      pmpool: 530.0                  # bottom pool (kg m-2), default = rho*thickness_L1
 #      flufflayer: 2.65               # bottom pool (kg m-2), default = rho*thickness_fluff
     coupling:                        # optional
+#      tauw: INP_tauw
     check_conservation: false        # default = false

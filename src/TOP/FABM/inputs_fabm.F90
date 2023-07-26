@@ -84,7 +84,7 @@ MODULE inputs_fabm
 
            ! Read the namelist
            READ(nmlunit,nml=variable,err=98,end=99)
-
+			
            ! Transfer namelist settings to new input_data object
            ALLOCATE(input_data, STAT=ierr)
            IF( ierr > 0 ) CALL ctl_stop( 'STOP', 'inputs_fabm:initialize_inputs: unable to allocate input_data object for variable '//TRIM(name) )
