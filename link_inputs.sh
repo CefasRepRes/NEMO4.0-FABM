@@ -11,5 +11,5 @@ cp /gpfs/home/dzd22eyu/fabm/testcases/fabm-iow-spm.yaml ./cfgs/$CFG/EXP00/
 ln -s ./cfgs/$CFG/EXP00/fabm-iow-spm.yaml ./cfgs/$CFG/EXP00/fabm.yaml
 mkdir ./cfgs/$CFG/EXP00/RESTART
 ln -s /gpfs/data/cefas-shared/NEMO-benchmark-cfg/INPUTS/DOM/restart.nc ./cfgs/$CFG/EXP00/RESTART/restart.nc
-cp run_nemo.sbatch ./cfgs/$CFG/EXP00/
-ln -s /gpfs/home/dzd22eyu/wave-test-2.nc ./cfgs/$CFG/EXP00/INPUTS/AMM7-wave-stress_y2005.nc
+#cp run_nemo.sbatch ./cfgs/$CFG/EXP00/
+#ln -s /gpfs/home/dzd22eyu/wave-test-2.nc ./cfgs/$CFG/EXP00/INPUTS/AMM7-wave-stress_y2005.nc
