@@ -8,11 +8,13 @@
 *.mod
 *.exe
 *ocean.output*
+*.sbatch
+*.sh
 mk
 Makefile
 CMakeFiles
 CMakeCache.txt
-cfgs/*/BLD/
+cfgs
 *communication_report.txt
 *output.namelist.dyn
 *.cmake
