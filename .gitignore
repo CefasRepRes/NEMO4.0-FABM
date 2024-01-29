@@ -8,8 +8,9 @@
 *.mod
 *.exe
 *ocean.output*
-*.sbatch
-*.sh
+add_mod_ada_intel.sh
+#*.sbatch
+#*.sh
 mk
 Makefile
 CMakeFiles
