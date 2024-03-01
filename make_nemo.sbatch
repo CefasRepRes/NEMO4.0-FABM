@@ -10,7 +10,7 @@
 # NB. Update paths for local NEMO and FABM sources.
 
 module purge
-source ~/Projects/NEMO4.0-FABM/add_mod_ada_intel.sh
+source ~/NEMO4.0-FABM/add_mod_ada_intel.sh
 rm -v -f cfgs/$CFG/BLD/bin/nemo.exe
 
 ./makenemo -n $CFG -r $REF -m $ARCH -j 4
