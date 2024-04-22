@@ -8,11 +8,14 @@
 *.mod
 *.exe
 *ocean.output*
+add_mod_ada_intel.sh
+#*.sbatch
+#*.sh
 mk
 Makefile
 CMakeFiles
 CMakeCache.txt
-cfgs/*/BLD/
+cfgs
 *communication_report.txt
 *output.namelist.dyn
 *.cmake

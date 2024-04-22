@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -p ib-24-96
+#SBATCH -p cefas-ib-24-96
 #SBATCH --qos=cefas-ib
 #SBATCH -o %j-make.out
 #SBATCH -e %j-make.err

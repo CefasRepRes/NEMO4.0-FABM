@@ -8,11 +8,11 @@ module add netcdf/4.7.4/parallel/intel-2020-4-openmpi-cefas
 module add hdf5/1.10.6/intel-2020-4-openmpi-cefas
 module add mpi/openmpi/4.0.4/intel/ib-intel-2020-4-cefas
 
-#export FABM_HOME=/gpfs/software/ada/fabm/nemo/
-export FABM_HOME=/gpfs/home/$USER/local/fabm/nemo/
-export XIOS_HOME=/gpfs/software/ada/xios/2.5/intel-openmpi
-export NEMO_HOME=/gpfs/home/$USER/NEMO4.0-FABM
+fabmdir=FABM_dev.git
+cd ~/$fabmdir/build/
+cmake ../ -DFABM_HOST=nemo
+cmake --build . --target install
 
-ARCH="UEAADA_INTEL"
-CFG="AMM7_FABM_IOWt"
-REF="AMM7_FABM_IOW"
+#cd ~/Projects/Dev_fabm/build_fabm/
+#cmake ~/Projects/Dev_fabm/ -DFABM_HOST=nemo
+#cmake --build . --target install
