@@ -52,8 +52,8 @@ MODULE trcsms_fabm
    REAL(wp), ALLOCATABLE, SAVE, DIMENSION(:,:)   :: current_total   ! Work array for mass aggregation
 
    ! Arrays for environmental variables
-   REAL(wp), PUBLIC, ALLOCATABLE, SAVE, TARGET, DIMENSION(:,:,:) :: prn,rho,u_t,v_t
-   REAL(wp), PUBLIC, ALLOCATABLE, SAVE, TARGET, DIMENSION(:,:) :: taubot
+   REAL(wp), PUBLIC, ALLOCATABLE, SAVE, TARGET, DIMENSION(:,:,:) :: prn,rho
+   REAL(wp), PUBLIC, ALLOCATABLE, SAVE, TARGET, DIMENSION(:,:) :: taubot,u_t,v_t
    REAL(wp), PUBLIC, TARGET :: daynumber_in_year
 
    ! state check type
@@ -217,19 +217,31 @@ CONTAINS
          END DO
       END IF
 
-      ! Compute u and v velocities at t pints
+      ! Compute un and vn velocities at t points
 	  ! ------------------------------------
-      IF (ALLOCATED(u_t)) THEN
-         u_t(:,:,:) = 0._wp
-		 v_t(:,:,:) = 0._wp
-         DO jk=1,jpkm1
-	        DO jj = 2, jpjm1
-                DO ji = fs_2, fs_jpim1
-			       u_t(ji,jj,jk) = 0.5 * (un(ji,jj,jk) + un(ji-1,jj,jk)) * tmask(ji,jj,jk)
-                   v_t(ji,jj,jk) = 0.5 * (vn(ji,jj,jk) + vn(ji,jj-1,jk)) * tmask(ji,jj,jk)
-	            ENDDO
-            ENDDO  	  
-	     ENDDO
+      ! IF (ALLOCATED(u_t)) THEN
+         ! u_t(:,:,:) = 0._wp
+		 ! v_t(:,:,:) = 0._wp
+         ! DO jk=1,jpkm1
+	        ! DO jj = 2, jpjm1
+                ! DO ji = fs_2, fs_jpim1
+			       ! u_t(ji,jj,jk) = 0.5 * (un(ji,jj,jk) + un(ji-1,jj,jk)) * tmask(ji,jj,jk)
+                   ! v_t(ji,jj,jk) = 0.5 * (vn(ji,jj,jk) + vn(ji,jj-1,jk)) * tmask(ji,jj,jk)
+	            ! ENDDO
+            ! ENDDO  	  
+	     ! ENDDO
+	  ! ENDIF
+      ! Compute Barotropic un_b and vn_b velocities at t points
+	  ! ------------------------------------
+	  IF (ALLOCATED(u_t)) THEN
+         u_t(:,:) = 0._wp
+		 v_t(:,:) = 0._wp
+	     DO jj = 2, jpjm1
+             DO ji = fs_2, fs_jpim1
+			    u_t(ji,jj) = 0.5 * (un_b(ji,jj) + un_b(ji-1,jj)) * tmask(ji,jj,1)
+                v_t(ji,jj) = 0.5 * (vn_b(ji,jj) + vn_b(ji,jj-1)) * tmask(ji,jj,1)
+	         ENDDO
+         ENDDO  	  
 	  ENDIF
 
       CALL model%prepare_inputs(real(kt, wp),nyear,nmonth,nday,REAL(nsec_day,wp))
@@ -401,8 +413,8 @@ CONTAINS
       IF (model%variable_needs_values(fabm_standard_variables%pressure)) ALLOCATE(prn(jpi, jpj, jpk))
       IF (ALLOCATED(prn) .or. model%variable_needs_values(fabm_standard_variables%density)) ALLOCATE(rho(jpi, jpj, jpk))
       IF (model%variable_needs_values(fabm_standard_variables%bottom_stress)) ALLOCATE(taubot(jpi, jpj))
-	  IF (model%variable_needs_values(fabm_standard_variables%u_velocity)) ALLOCATE(u_t(jpi, jpj, jpk))
-	  IF (model%variable_needs_values(fabm_standard_variables%v_velocity)) ALLOCATE(v_t(jpi, jpj, jpk))
+	  IF (model%variable_needs_values(fabm_standard_variables%u_velocity)) ALLOCATE(u_t(jpi, jpj))
+	  IF (model%variable_needs_values(fabm_standard_variables%v_velocity)) ALLOCATE(v_t(jpi, jpj))
 
       ! Allocate arrays to hold state for surface-attached and bottom-attached state variables
       ALLOCATE(fabm_st2Dn(jpi, jpj, jp_fabm_surface+jp_fabm_bottom))
@@ -463,8 +475,8 @@ CONTAINS
       CALL model%link_horizontal_data(fabm_standard_variables%surface_downwelling_shortwave_flux, qsr(:,:))
       CALL model%link_horizontal_data(fabm_standard_variables%bottom_depth_below_geoid, ht_0(:,:))
       CALL model%link_horizontal_data(fabm_standard_variables%ice_area_fraction, fr_i(:,:))
-	  IF (ALLOCATED(u_t)) CALL model%link_interior_data(fabm_standard_variables%u_velocity, u_t(:,:,:))
-	  IF (ALLOCATED(v_t)) CALL model%link_interior_data(fabm_standard_variables%v_velocity, v_t(:,:,:))
+	  IF (ALLOCATED(u_t)) CALL model%link_horizontal_data(fabm_standard_variables%u_velocity, u_t(:,:))
+	  IF (ALLOCATED(v_t)) CALL model%link_horizontal_data(fabm_standard_variables%v_velocity, v_t(:,:))
 
       ! Obtain user-specified input variables (read from NetCDF file)
       call link_inputs

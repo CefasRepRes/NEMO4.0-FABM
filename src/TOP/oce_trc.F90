@@ -34,6 +34,8 @@ MODULE oce_trc
    !* ocean fields: here now and after fields *
    USE oce , ONLY :   un      =>    un      !: i-horizontal velocity (m s-1) 
    USE oce , ONLY :   vn      =>    vn      !: j-horizontal velocity (m s-1)
+   USE oce , ONLY :   un_b    =>    un_b    !: i-horizontal velocity (m s-1) 
+   USE oce , ONLY :   vn_b    =>    vn_b    !: j-horizontal velocity (m s-1)
    USE oce , ONLY :   wn      =>    wn      !: vertical velocity (m s-1)  
    USE oce , ONLY :   tsn     =>    tsn     !: 4D array contaning ( tn, sn )
    USE oce , ONLY :   tsb     =>    tsb     !: 4D array contaning ( tb, sb )
