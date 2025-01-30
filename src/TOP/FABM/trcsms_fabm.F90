@@ -231,6 +231,7 @@ CONTAINS
             ! ENDDO  	  
 	     ! ENDDO
 	  ! ENDIF
+	  
       ! Compute Barotropic un_b and vn_b velocities at t points
 	  ! ------------------------------------
 	  IF (ALLOCATED(u_t)) THEN
@@ -243,7 +244,7 @@ CONTAINS
 	         ENDDO
          ENDDO  	  
 	  ENDIF
-
+	  
       CALL model%prepare_inputs(real(kt, wp),nyear,nmonth,nday,REAL(nsec_day,wp))
 
       ! Zero rate array of interface-attached state variables
