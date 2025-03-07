@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -p cefas-ib-28-128
+#SBATCH -p cefas-ib-24-96
 #SBATCH --qos=cefas-ib
 #SBATCH -o %j-make.out
 #SBATCH -e %j-make.err
@@ -10,7 +10,7 @@
 # NB. Update paths for local NEMO and FABM sources.
 
 module purge
-source ~/NEMO/NEMO4.0-FABM/add_mod_ada_intel.sh
+source ~/NEMO4.0-FABM/add_mod_ada_intel_ersem.sh
 
 ./makenemo -n $CFG -r $REF -m $ARCH -j 4
 
