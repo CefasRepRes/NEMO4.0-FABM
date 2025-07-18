@@ -16,6 +16,6 @@ the format of XIOS xml files is available `here <https://github.com/pmlmodelling
 
 ---
 
-This repository includes arch files needed for compiling on UEA HPC (Ada). Instructions for how to compile on UEA HPC can be found `here <https://github.com/CefasRepRes/NEMO4.0-FABM/wiki/Installation-with-intel-compilers>`_ 
+This repository includes arch files needed for compiling on UEA HPC (Hali, Ada). Instructions for how to compile on UEA HPC can be found `here <https://github.com/CefasRepRes/NEMO4.0-FABM/wiki/Installation-with-intel-compilers>`_ 
 
 NB. While this repository contains modifications for using FABM, FABM itself must be compiled separately. 
