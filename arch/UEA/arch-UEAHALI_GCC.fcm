@@ -1,0 +1,78 @@
+# compiler options for Intel compiler on UEA HALI HPC
+#
+# NCDF_HOME   root directory containing lib and include subdirectories for netcdf4
+# HDF5_HOME   root directory containing lib and include subdirectories for HDF5
+# XIOS_HOME   root directory containing lib for XIOS
+# OASIS_HOME  root directory containing lib for OASIS
+#
+# NCDF_INC    netcdf4 include file
+# NCDF_LIB    netcdf4 library
+# XIOS_INC    xios include file    (taken into accound only if key_iomput is activated)
+# XIOS_LIB    xios library         (taken into accound only if key_iomput is activated)
+# OASIS_INC   oasis include file   (taken into accound only if key_oasis3 is activated)
+# OASIS_LIB   oasis library        (taken into accound only if key_oasis3 is activated)
+#
+# FC          Fortran compiler command
+# FCFLAGS     Fortran compiler flags
+# FFLAGS      Fortran 77 compiler flags
+# LD          linker
+# LDFLAGS     linker flags, e.g. -L<lib dir> if you have libraries
+# FPPFLAGS    pre-processing flags
+# AR          assembler
+# ARFLAGS     assembler flags
+# MK          make
+# USER_INC    complete list of include files
+# USER_LIB    complete list of libraries to pass to the linker
+# CC          C compiler used to compile conv for AGRIF
+# CFLAGS      compiler flags used with CC
+#
+# Note that:
+#  - unix variables "$..." are accpeted and will be evaluated before calling fcm.
+#  - fcm variables are starting with a % (and not a $)
+#
+%NCDF_HOME           /gpfs/software/hali/netcdf/4.7.4/openmpi/gcc
+%HDF5_HOME           /gpfs/software/hali/hdf5/1.10.6/openmpi/gcc
+%XIOS_HOME           $XIOS_HOME
+#%OASIS_HOME
+%FABM_HOME           $FABM_HOME
+
+%NCDF_INC            -I%NCDF_HOME/include -I%HDF5_HOME/include
+%NCDF_LIB            -L%HDF5_HOME/lib -L%NCDF_HOME/lib -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lz
+%XIOS_INC            -I%XIOS_HOME/inc
+%XIOS_LIB            -L%XIOS_HOME/lib -lxios
+
+%FABM_INC            -I%FABM_HOME/include
+# Changed from lib to lib64 but "use fabm" is failing
+%FABM_LIB            -L%FABM_HOME/lib -lfabm
+%CPP                 cpp
+# changed from mpifort
+%FC                  mpif90
+#%FCFLAGS             -r8 -i4 -init=zero -init=arrays -g -traceback -debug full -O2 -fp-model consistent -check bounds
+#%FCFLAGS             -r8 -i4 -init=zero -init=arrays -O2 -g -traceback -check pointers -fpe1 -fp-model consistent
+# -fallow-argument-mismatch only for gcc/gfortran 10
+#                    Some code contains calls to external procedures whith mismatches between the calls and the procedure definition, or with mismatches between different calls. 
+%FCFLAGS             -fdefault-real-8 -O2 -funroll-all-loops -fcray-pointer -ffree-line-length-none -w -O2
+%FFLAGS              %FCFLAGS
+%FC_MODSEARCH        -module
+
+%LD                  %FC
+#%FPPFLAGS            -P -E -traditional-cpp %FABM_INC
+# -C  don't discard comments
+# -P preprocess ans stop
+# -nostdinc 
+# -traditional-cpp   solves warnings on single quotes used inside comments
+# -key_nosignedzero  required by F2003 compliant compilers
+%FPPFLAGS            -P -C -nostdinc -traditional-cpp -Dkey_nosignedzero %FABM_INC
+#%LDFLAGS             -hbyteswapio
+%LDFLAGS             -lstdc++
+%AR                  ar
+# -rs                used in file arch-GCC_PMPC.fcm 
+%ARFLAGS             -r
+# make               used in file arch-GCC_PMPC.fcm
+%MK                  gmake
+%USER_INC            %NCDF_INC %XIOS_INC %FABM_INC
+%USER_LIB            %NCDF_LIB %XIOS_LIB %FABM_LIB
+
+# needed?
+%CC                  cc
+%CFLAGS              -O0
