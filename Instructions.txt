@@ -1,0 +1,66 @@
+1) Create new folder in home directory called ifxNEMO
+
+cd ~
+mkdir ifxNEMO
+
+
+2) Clone the git repos
+
+	a) Clone xios-2.5-cefas, branch main
+	
+cd ~/ifxNEMO
+git clone https://github.com/CefasRepRes/xios-2.5-cefas.git
+
+	b) Clone Dev_fabm, switch to branch Dev_fabm
+
+cd ~/ifxNEMO
+git clone https://github.com/CefasRepRes/Dev_fabm.git
+cd Dev_fabm
+git switch Dev_fabm
+
+	c) Clone NEMO4.0-FABM, switch to branch ERSEM 
+
+cd ~ifxNEMO
+git clone https://github.com/CefasRepRes/NEMO4.0-FABM.git
+cd NEMO4.0-FABM
+git switch ERSEM
+
+	d) Clone NEMO-FABM_cases, check branch is SPM
+	
+cd ~ifxNEMO
+git clone https://github.com/CefasRepRes/NEMO-FABM_Cases.git
+cd NEMO-FABM_cases
+git status
+
+
+3) Compile the code
+
+	a) Build xios with run_make_hali.sbatch
+
+cd ~/ifxNEMO/xios-2.5-cefas
+sbatch run_make_hali.sbatch
+	
+	
+	b) Build fabm with make_fabm_ersem_ifx.sbatch
+	
+cd ~/ifxNEMO/Dev_fabm
+sbatch make_fabm_ersem_ifx.sbatch
+
+	c) Build nemo with make_nemo_ifx.sbatch
+	
+cd ~/ifxNEMO/NEMO4.0-FABM
+sbatch make_nemo_ifx.sbatch
+
+
+4) Setup & submit run
+
+cd ~/ifxNEMO/NEMO-FABM_cases
+. setup-paths.sh
+sbatch ifx_run_nemo.sbatch
+
+-------------
+For multiyear runs you will need to;
+Build rebuild nemo tool using rebuild_nemo_new.F90 (NEMO4.0-FABM/tools/REBUILD_NEMO/)
+
+In NEMO-FABM_cases/ERSEM-MO/run_multiyear.sbatch,
+update resources requested, start and end year and check paths before submitting
