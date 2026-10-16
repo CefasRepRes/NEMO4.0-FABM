@@ -62,11 +62,11 @@ void tofich_reste (FILE * filout, const char *s, int do_returnline)
     {
         strncpy(temp, s, line_length);
         temp[line_length] = '\0';
-        if ( retour77 == 0 && (s_length-strlen(temp) > 0) )
+        if ( retour77 == 0 && (s_length > strlen(temp)) )
                 fprintf(filout, "     &%s&\n", temp);
         else    fprintf(filout, "     &%s\n", temp);
 
-        if ( s_length-strlen(temp) > 0 )
+        if ( s_length > strlen(temp) )
             tofich_reste(filout, (char *) &s[line_length], do_returnline);
     }
 }
